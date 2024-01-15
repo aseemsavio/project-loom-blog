@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import static java.lang.Thread.sleep;
 import static java.lang.Thread.startVirtualThread;
 
-public class FiveMillionChallengeTheStarter {
+public class FiveMillionChallenge {
 
     public static void main(String[] args) throws InterruptedException {
         System.out.println("Main Started");
